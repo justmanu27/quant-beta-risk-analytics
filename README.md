@@ -1,3 +1,4 @@
+
 # Stock and Index Beta Calculator #
 Python script that calculates the beta (β) of a stock against the chosen index. The script retrieves the data and resamples it to provide the beta for 6 different timeframes and frequencies. The beta is calculated boy using both a formula and linear regression. 
 The betas calculated are:
@@ -59,4 +60,3 @@ Binomial Option Pricing Calculator: binomial_option_pricing_calculator
 
 ## Disclaimer ##
 Script is for educational purposes and is not to be taken as financial advice.
-
